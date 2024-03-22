@@ -1,0 +1,22 @@
+{
+    "chain_name": "dymensiontestnet",
+    "registry_name": "",
+    "api": [
+        {"provider": "Inter Blockchain Services", "address": "https://dymension-api-blumbus.ibs.team"}
+    ],
+    "rpc": [
+        {"provider": "Inter Blockchain Services", "address": "https://dymension-rpc-blumbus.ibs.team"}
+    ],
+    "sdk_version": "0.46.15",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "dym",
+    "logo": "logo/dymension.png",
+    "assets": [{
+        "base": "adym",
+        "symbol": "DYM",
+        "exponent": "18",
+        "coingecko_id": "dymension", 
+        "logo": "logo/dymension.png"
+    }]
+}

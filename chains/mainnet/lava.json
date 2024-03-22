@@ -1,0 +1,22 @@
+{
+    "chain_name": "lavatestnet",
+    "registry_name": "lavatestnet2",
+    "api": [
+        {"provider": "Inter Blockchain Services", "address": "https://lava-api-blumbus.ibs.team"}
+    ],
+    "rpc": [
+        {"provider": "Inter Blockchain Services", "address": "https://lava-rpc-blumbus.ibs.team"}
+    ],
+    "sdk_version": "0.46.15",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "lava@",
+    "logo": "logo/lava.svg",
+    "assets": [{
+        "base": "ulava",
+        "symbol": "LAVA",
+        "exponent": "6",
+        "coingecko_id": "", 
+        "logo": "logo/lava.svg"
+    }]
+}
