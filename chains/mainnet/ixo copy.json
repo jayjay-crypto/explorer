@@ -1,0 +1,22 @@
+{
+    "chain_name": "ixo",
+    "registry_name": "impacthubtestnet",
+    "api": [
+        {"provider": "Inter Blockchain Services", "address": "https://ixo-testnet-api.ibs.team"}
+    ],
+    "rpc": [
+        {"provider": "Inter Blockchain Services", "address": "https://ixo-testnet-rpc.ibs.team"}
+    ],
+    "sdk_version": "0.45.16",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "ixo",
+    "logo": "logo/ixo.svg",
+    "assets": [{
+        "base": "uixo",
+        "symbol": "IXO",
+        "exponent": "6",
+        "coingecko_id": "axelar", 
+        "logo": "logo/ixo.svg"
+    }]
+}

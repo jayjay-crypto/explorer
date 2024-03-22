@@ -1,0 +1,22 @@
+{
+    "chain_name": "teritori",
+    "registry_name": "",
+    "api": [
+        {"provider": "Inter Blockchain Services", "address": "https://teritori-testnet-api.ibs.team"}
+    ],
+    "rpc": [
+        {"provider": "Inter Blockchain Services", "address": "https://teritori-testnet-rpc.ibs.team"}
+    ],
+    "sdk_version": "0.45.16",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "ixo",
+    "logo": "logo/teritori.svg",
+    "assets": [{
+        "base": "utori",
+        "symbol": "TORI",
+        "exponent": "6",
+        "coingecko_id": "teritori", 
+        "logo": "logo/teritori.svg"
+    }]
+}
