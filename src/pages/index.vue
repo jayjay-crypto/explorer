@@ -40,13 +40,13 @@ const chainStore = useBlockchain()
       <div class="w-16 rounded-full">
         <img src="logo/logo.svg" alt="Logo" />
       </div>
-      <h1 class="text-primary dark:invert text-3xl md:!text-6xl font-bold">
+      <h1 class="text-primary dark:text-white text-3xl md:!text-6xl font-bold">
         {{ $t('pages.title') }}
       </h1>
     </div>
     <div class="text-center text-base">
       <p class="mb-1">
-        {{ $t('pages.slogan') }}
+        {{ $t('slogan') }}
       </p>
     </div>
     <div
