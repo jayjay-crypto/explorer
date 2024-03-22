@@ -11,12 +11,12 @@
     "coin_type": "118",
     "min_tx_fee": "800",
     "addr_prefix": "quick",
-    "logo": "logo/qck.svg",
+    "logo": "logo/qck.png",
     "assets": [{
         "base": "uqck",
         "symbol": "QCK",
         "exponent": "6",
         "coingecko_id": "quicksilver", 
-        "logo": "logo/qck.svg"
+        "logo": "logo/qck.png"
     }]
 }
