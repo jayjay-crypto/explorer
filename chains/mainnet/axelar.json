@@ -1,0 +1,22 @@
+{
+    "chain_name": "axelar",
+    "registry_name": "axelartestnet",
+    "api": [
+        {"provider": "Inter Blockchain Services", "address": "https://axelar-testnet-api.ibs.team"}
+    ],
+    "rpc": [
+        {"provider": "Inter Blockchain Services", "address": "https://axelar-testnet-rpc.ibs.team"}
+    ],
+    "sdk_version": "0.45.1",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "axelar",
+    "logo": "public/axl.svg",
+    "assets": [{
+        "base": "uaxl",
+        "symbol": "AXL",
+        "exponent": "6",
+        "coingecko_id": "axelar", 
+        "logo": "public/axl.svg"
+    }]
+}
