@@ -1,0 +1,22 @@
+{
+    "chain_name": "quicksilvertestnet",
+    "registry_name": "quicksilvertestnet",
+    "api": [
+        {"provider": "Inter Blockchain Services", "address": "https://quicksilver-testnet-api.ibs.team"}
+    ],
+    "rpc": [
+        {"provider": "Inter Blockchain Services", "address": "https://quicksilver-testnet-rpc.ibs.team"}
+    ],
+    "sdk_version": "0.46.16",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "quick",
+    "logo": "logo/qck.svg",
+    "assets": [{
+        "base": "uqck",
+        "symbol": "QCK",
+        "exponent": "6",
+        "coingecko_id": "quicksilver", 
+        "logo": "logo/qck.svg"
+    }]
+}

@@ -1,0 +1,22 @@
+{
+    "chain_name": "wardenprotocoltestnet",
+    "registry_name": "wardenprotocoltestnet",
+    "api": [
+        {"provider": "Inter Blockchain Services", "address": "https://warden-testnet-api.ibs.team"}
+    ],
+    "rpc": [
+        {"provider": "Inter Blockchain Services", "address": "https://warden-testnet-rpc.ibs.team"}
+    ],
+    "sdk_version": "0.47.5",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "warden",
+    "logo": "logo/warden.svg",
+    "assets": [{
+        "base": "uwar",
+        "symbol": "WAR",
+        "exponent": "6",
+        "coingecko_id": "", 
+        "logo": "logo/warden.svg"
+    }]
+}

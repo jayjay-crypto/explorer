@@ -1,0 +1,22 @@
+{
+    "chain_name": "coreumtestnet",
+    "registry_name": "coreumtestnet",
+    "api": [
+        {"provider": "Inter Blockchain Services", "address": "https://coreum-testnet-api.ibs.team"}
+    ],
+    "rpc": [
+        {"provider": "Inter Blockchain Services", "address": "https://coreum-testnet-rpc.ibs.team"}
+    ],
+    "sdk_version": "0.47.5",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "testcore",
+    "logo": "logo/coreum.svg",
+    "assets": [{
+        "base": "utestcore",
+        "symbol": "CORE",
+        "exponent": "6",
+        "coingecko_id": "coreum", 
+        "logo": "logo/coreum.svg"
+    }]
+}

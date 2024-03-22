@@ -7,7 +7,7 @@
     "rpc": [
         {"provider": "Inter Blockchain Services", "address": "https://axelar-testnet-rpc.ibs.team"}
     ],
-    "sdk_version": "0.45.1",
+    "sdk_version": "0.45.16",
     "coin_type": "118",
     "min_tx_fee": "800",
     "addr_prefix": "axelar",
