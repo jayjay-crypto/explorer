@@ -1,0 +1,22 @@
+{
+    "chain_name": "kyvetestnet",
+    "registry_name": "kyvetestnet",
+    "api": [
+        {"provider": "Inter Blockchain Services", "address": "https://kyve-testnet-api.ibs.team"}
+    ],
+    "rpc": [
+        {"provider": "Inter Blockchain Services", "address": "https://kyve-testnet-rpc.ibs.team"}
+    ],
+    "sdk_version": "0.47.5",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "kyve",
+    "logo": "logo/bcna.svg",
+    "assets": [{
+        "base": "tkyve",
+        "symbol": "KYVE",
+        "exponent": "6",
+        "coingecko_id": "kyve-network", 
+        "logo": "logo/bcna.svg"
+    }]
+}

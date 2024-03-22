@@ -1,6 +1,6 @@
 {
     "chain_name": "teritori",
-    "registry_name": "",
+    "registry_name": "teritoritestnet",
     "api": [
         {"provider": "Inter Blockchain Services", "address": "https://teritori-testnet-api.ibs.team"}
     ],

@@ -1,0 +1,22 @@
+{
+    "chain_name": "bitcannadevnet",
+    "registry_name": "bitcannadevnet",
+    "api": [
+        {"provider": "Inter Blockchain Services", "address": "https://bcna-testnet-api.ibs.team"}
+    ],
+    "rpc": [
+        {"provider": "Inter Blockchain Services", "address": "https://bcna-testnet-rpc.ibs.team"}
+    ],
+    "sdk_version": "0.47.9",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "bcna",
+    "logo": "logo/bcna.svg",
+    "assets": [{
+        "base": "ubcna",
+        "symbol": "BCNA",
+        "exponent": "6",
+        "coingecko_id": "bitcanna", 
+        "logo": "logo/bcna.svg"
+    }]
+}
