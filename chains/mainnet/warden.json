@@ -1,5 +1,5 @@
 {
-    "chain_name": "wardenprotocoltestnet",
+    "chain_name": "wardentestnet",
     "registry_name": "wardenprotocoltestnet",
     "api": [
         {"provider": "Inter Blockchain Services", "address": "https://warden-testnet-api.ibs.team"}
