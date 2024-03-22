@@ -46,7 +46,7 @@ const chainStore = useBlockchain()
     </div>
     <div class="text-center text-base">
       <p class="mb-1">
-        {{ $t('slogan') }}
+        {{ $t('pages.slogan') }}
       </p>
     </div>
     <div
