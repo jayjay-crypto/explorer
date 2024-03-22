@@ -11,12 +11,12 @@
     "coin_type": "118",
     "min_tx_fee": "800",
     "addr_prefix": "axelar",
-    "logo": "public/axl.svg",
+    "logo": "logo/axl.svg",
     "assets": [{
         "base": "uaxl",
         "symbol": "AXL",
         "exponent": "6",
         "coingecko_id": "axelar", 
-        "logo": "public/axl.svg"
+        "logo": "logo/axl.svg"
     }]
 }
