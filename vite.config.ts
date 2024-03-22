@@ -15,6 +15,9 @@ export default defineConfig({
   define: {
     'process.env': {}
   },
+  server: {
+    host: true
+  },
   plugins: [
     vue({
       template: {
