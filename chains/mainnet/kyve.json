@@ -11,12 +11,12 @@
     "coin_type": "118",
     "min_tx_fee": "800",
     "addr_prefix": "kyve",
-    "logo": "logo/bcna.svg",
+    "logo": "logo/kyve.svg",
     "assets": [{
         "base": "tkyve",
         "symbol": "KYVE",
         "exponent": "6",
         "coingecko_id": "kyve-network", 
-        "logo": "logo/bcna.svg"
+        "logo": "logo/kyve.svg"
     }]
 }
