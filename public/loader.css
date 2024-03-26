@@ -4,7 +4,9 @@
 
 .loading-logo {
   position: fixed;
-    
+  top: 50%;
+  left: 50%;
+  transform: translate(-70%, -50%);    
 
   /* position: absolute;
   inset-block-start: 40%;
