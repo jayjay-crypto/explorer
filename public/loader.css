@@ -12,6 +12,10 @@
   height: 80px; */
 }
 
+.loading-logo img {
+  height: 80px;
+}
+
 .pre-loading {
   position: absolute;
   box-sizing: border-box;
