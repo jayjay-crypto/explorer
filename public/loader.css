@@ -6,6 +6,7 @@
   position: absolute;
   inset-block-start: 40%;
   inset-inline-start: calc(50% - 75px);
+  height: 80px;
 }
 
 .pre-loading {
