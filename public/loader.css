@@ -3,8 +3,12 @@
 }
 
 .loading-logo {
-  position: absolute;
-  /* inset-block-start: 40%;
+  position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  /* position: absolute;
+  inset-block-start: 40%;
   inset-inline-start: calc(50% - 75px);
   height: 80px; */
 }
