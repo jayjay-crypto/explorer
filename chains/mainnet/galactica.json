@@ -1,6 +1,6 @@
 {
     "chain_name": "galacticatestnet",
-    "registry_name": "wardenprotocoltestnet",
+    "registry_name": "galacticatestnet",
     "api": [
         {"provider": "Inter Blockchain Services", "address": "https://galactica-testnet-api.ibs.team"}
     ],
