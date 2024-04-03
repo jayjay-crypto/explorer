@@ -68,7 +68,7 @@ function selected(route: any, nav: NavLink) {
       <div class="flex justify-between mt-1 pl-1 py-4 mb-1">
         <RouterLink to="/" class="flex items-center">
           <img class="w-10 h-10" src="../../assets/logo.svg" />
-          <h1 class="flex-1 text-1xl font-semibold dark:text-white">
+          <h1 class="flex-1 text-1xl font-semibold dark:text-black">
             Inter Blockchain Services
           </h1>
         </RouterLink>
