@@ -1,0 +1,22 @@
+{
+    "chain_name": "galacticatestnet",
+    "registry_name": "wardenprotocoltestnet",
+    "api": [
+        {"provider": "Inter Blockchain Services", "address": "https://galactica-testnet-api.ibs.team"}
+    ],
+    "rpc": [
+        {"provider": "Inter Blockchain Services", "address": "https://galactica-testnet-rpc.ibs.team"}
+    ],
+    "sdk_version": "0.47.5",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "gala",
+    "logo": "logo/galactica.jpg",
+    "assets": [{
+        "base": "agnet",
+        "symbol": "GNET",
+        "exponent": "18",
+        "coingecko_id": "", 
+        "logo": "logo/galactica.jpg"
+    }]
+}
