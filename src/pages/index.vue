@@ -40,7 +40,7 @@ const chainStore = useBlockchain()
       <div class="w-16 rounded-full">
         <img src="logo/logo.svg" alt="Logo" />
       </div>
-      <h1 class="text-2xl md:!text-4xl font-bold">
+      <h1 class="dark:text-black text-2xl md:!text-4xl font-bold">
         {{ $t('pages.title') }}
       </h1>
     </div>
