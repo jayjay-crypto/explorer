@@ -1,26 +1,12 @@
 #loading-bg {
   background: var(--initial-loader-bg, #fff);
-  height: 80%;
-  margin: 0;
   display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.loading-logo {
-  /* position: fixed;
-  top: 25%;
-  left: 45%; */
-  /* transform: translate(-60%, -90%);     */
-
-  /* position: absolute;
-  inset-block-start: 40%;
-  inset-inline-start: calc(50% - 75px);
-  height: 80px; */
-}
-
 .loading-logo img {
-  height: 200px;
+  height: 250px;
 }
 
 .pre-loading {
