@@ -1,11 +1,14 @@
 #loading-bg {
   background: var(--initial-loader-bg, #fff);
+  display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .loading-logo {
-  position: fixed;
+  /* position: fixed;
   top: 25%;
-  left: 45%;
+  left: 45%; */
   /* transform: translate(-60%, -90%);     */
 
   /* position: absolute;
