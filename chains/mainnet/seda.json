@@ -1,0 +1,22 @@
+{
+    "chain_name": "sedatestnet",
+    "registry_name": "sedatestnet",
+    "api": [
+        {"provider": "Inter Blockchain Services", "address": "https://seda-testnet-api.ibs.team"}
+    ],
+    "rpc": [
+        {"provider": "Inter Blockchain Services", "address": "https://seda-testnet-rpc.ibs.team"}
+    ],
+    "sdk_version": "0.50.5",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "seda",
+    "logo": "logo/seda.png",
+    "assets": [{
+        "base": "aseda",
+        "symbol": "SEDA",
+        "exponent": "18",
+        "coingecko_id": "kyve-network", 
+        "logo": "logo/seda.png"
+    }]
+}
