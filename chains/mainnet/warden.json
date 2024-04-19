@@ -13,8 +13,8 @@
     "addr_prefix": "warden",
     "logo": "logo/warden.svg",
     "assets": [{
-        "base": "uwar",
-        "symbol": "WAR",
+        "base": "uward",
+        "symbol": "WARD",
         "exponent": "6",
         "coingecko_id": "", 
         "logo": "logo/warden.svg"
