@@ -1,0 +1,22 @@
+{
+    "chain_name": "mantrachaintestnet",
+    "registry_name": "maintrachaintestnet",
+    "api": [
+        {"provider": "Inter Blockchain Services", "address": "https://mantra-testnet-api.ibs.team"}
+    ],
+    "rpc": [
+        {"provider": "Inter Blockchain Services", "address": "https://mantra-testnet-rpc.ibs.team"}
+    ],
+    "sdk_version": "0.47.4",
+    "coin_type": "118",
+    "min_tx_fee": "10",
+    "addr_prefix": "mantra",
+    "logo": "logo/mantra.png",
+    "assets": [{
+        "base": "uom",
+        "symbol": "OM",
+        "exponent": "5",
+        "coingecko_id": "", 
+        "logo": "logo/mantra.png"
+    }]
+}
