@@ -20,7 +20,7 @@
         "logo": "logo/zg-logo.svg"
     }],
     "keplr_price_step": [{
-        "low": "4",
+        "low": "6",
         "average": "7",
         "high": "8"
     }]
