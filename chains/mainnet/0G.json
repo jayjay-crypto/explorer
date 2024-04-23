@@ -12,14 +12,14 @@
     "min_tx_fee": "2100000",
     "addr_prefix": "evmos",
     "logo": "logo/zg-logo.svg",
+    "low": "4",
+	"average": "7",
+	"high": "12",
     "assets": [{
         "base": "aevmos",
         "symbol": "0G",
         "exponent": "18",
         "coingecko_id": "", 
-        "logo": "logo/zg-logo.svg",
-        "low": "4",
-		"average": "7",
-		"high": "12"
+        "logo": "logo/zg-logo.svg"
     }]
 }
