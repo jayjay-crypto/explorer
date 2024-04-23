@@ -61,7 +61,6 @@ async function initParamsForKeplr() {
                 gasPriceStep,
             },
         ],
-        gasPriceStep,
         stakeCurrency: {
             coinDenom: chain.assets[0].symbol,
             coinMinimalDenom: chain.assets[0].base,
