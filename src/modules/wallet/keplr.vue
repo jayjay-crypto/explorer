@@ -35,6 +35,7 @@ async function initParamsForKeplr() {
         bip44: {
             coinType: Number(chain.coinType),
         },
+        coinType: Number(chain.coinType),
         bech32Config: {
             bech32PrefixAccAddr: chain.bech32Prefix,
             bech32PrefixAccPub: `${chain.bech32Prefix}pub`,
@@ -60,6 +61,7 @@ async function initParamsForKeplr() {
                 gasPriceStep,
             },
         ],
+        gasPriceStep,
         stakeCurrency: {
             coinDenom: chain.assets[0].symbol,
             coinMinimalDenom: chain.assets[0].base,
