@@ -22,9 +22,9 @@ async function initParamsForKeplr() {
     const chainid = b.block.header.chain_id
 
     const gasPriceStep = chain.keplrPriceStep || {
-        low: chain.low,
-        average: chain.average,
-        high: chain.high,
+        low: chain.assets[0].low,
+        average: chain.assets[0].average,
+        high: chain.assets[0].high,
     }
     const coinDecimals = chain.assets[0].denom_units.find(x => x.denom === chain.assets[0].symbol.toLowerCase())?.exponent || 6
     conf.value = JSON.stringify({
