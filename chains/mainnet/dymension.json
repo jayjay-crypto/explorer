@@ -17,9 +17,6 @@
         "symbol": "DYM",
         "exponent": "18",
         "coingecko_id": "dymension", 
-        "logo": "logo/dymension.png",
-        "low": "0.01",
-		"average": "0.025",
-		"high": "0.03"
+        "logo": "logo/dymension.png"
     }]
 }

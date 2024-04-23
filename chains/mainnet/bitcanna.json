@@ -17,9 +17,6 @@
         "symbol": "BCNA",
         "exponent": "6",
         "coingecko_id": "bitcanna", 
-        "logo": "logo/bcna.svg",
-        "low": "0.01",
-		"average": "0.025",
-		"high": "0.03"
+        "logo": "logo/bcna.svg"
     }]
 }
