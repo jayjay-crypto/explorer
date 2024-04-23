@@ -17,6 +17,9 @@
         "symbol": "QCK",
         "exponent": "6",
         "coingecko_id": "quicksilver", 
-        "logo": "logo/qck.png"
+        "logo": "logo/qck.png",
+        "low": "0.01",
+		"average": "0.025",
+		"high": "0.03"
     }]
 }

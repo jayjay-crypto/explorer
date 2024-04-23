@@ -17,6 +17,9 @@
         "symbol": "AXL",
         "exponent": "6",
         "coingecko_id": "axelar", 
-        "logo": "logo/axl.svg"
+        "logo": "logo/axl.svg",
+        "low": "0.01",
+		"average": "0.025",
+		"high": "0.03"
     }]
 }
