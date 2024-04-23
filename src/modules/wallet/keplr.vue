@@ -23,6 +23,7 @@ async function initParamsForKeplr() {
     const lowNumber = parseInt(chain.low, 10);
     const averageNumber = parseInt(chain.average, 10);
     const highNumber = parseInt(chain.high, 10);
+    console.log(lowNumber);
 
     const gasPriceStep = chain.keplrPriceStep || {
         low: lowNumber,
