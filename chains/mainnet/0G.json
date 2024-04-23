@@ -17,6 +17,9 @@
         "symbol": "0G",
         "exponent": "18",
         "coingecko_id": "", 
-        "logo": "logo/zg-logo.svg"
+        "logo": "logo/zg-logo.svg",
+        "low": "4",
+		"average": "7",
+		"high": "12"
     }]
 }
