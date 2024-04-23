@@ -20,15 +20,11 @@ async function initParamsForKeplr() {
     const client = CosmosRestClient.newDefault(chain.endpoints.rest?.at(0)?.address || "")
     const b = await client.getBaseBlockLatest()   
     const chainid = b.block.header.chain_id
-    const lowNumber = chain.low;
-    const averageNumber = chain.average;
-    const highNumber = chain.high;
-    console.log(chain);
 
     const gasPriceStep = chain.keplrPriceStep || {
-        low: lowNumber,
-        average: averageNumber,
-        high: highNumber,
+        low: 0.01,
+        average: 0.025,
+        high: 0.03,
     }
     const coinDecimals = chain.assets[0].denom_units.find(x => x.denom === chain.assets[0].symbol.toLowerCase())?.exponent || 6
     conf.value = JSON.stringify({
