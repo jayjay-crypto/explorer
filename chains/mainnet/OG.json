@@ -1,0 +1,22 @@
+{
+    "chain_name": "mantrachaintestnet",
+    "registry_name": "maintrachaintestnet",
+    "api": [
+        {"provider": "Inter Blockchain Services", "address": "https://0g-testnet-api.ibs.team"}
+    ],
+    "rpc": [
+        {"provider": "Inter Blockchain Services", "address": "https://0g-testnet-rpc.ibs.team"}
+    ],
+    "sdk_version": "0.47.4",
+    "coin_type": "60",
+    "min_tx_fee": "800",
+    "addr_prefix": "0g",
+    "logo": "logo/zg-logo.svg",
+    "assets": [{
+        "base": "uaOgi",
+        "symbol": "OG",
+        "exponent": "6",
+        "coingecko_id": "", 
+        "logo": "logo/zg-logo.svg"
+    }]
+}
