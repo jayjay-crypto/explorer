@@ -1,6 +1,6 @@
 {
-    "chain_name": "mantrachaintestnet",
-    "registry_name": "maintrachaintestnet",
+    "chain_name": "0gtestnet",
+    "registry_name": "0gtestnet",
     "api": [
         {"provider": "Inter Blockchain Services", "address": "https://0g-testnet-api.ibs.team"}
     ],
